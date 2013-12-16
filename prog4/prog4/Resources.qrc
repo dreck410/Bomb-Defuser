@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/bomb.png</file>
+        <file>images/cooltext.png</file>
+        <file>images/delete-icon.png</file>
+        <file>images/logo.png</file>
+        <file>images/pointer.png</file>
+        <file>images/Redo-icon.png</file>
+        <file>images/robot.png</file>
+        <file>images/Undo-icon.png</file>
+        <file>images/wall.jpg</file>
+        <file>images/DanielRecker.png</file>
+        <file>images/Fire.gif</file>
+    </qresource>
+</RCC>
